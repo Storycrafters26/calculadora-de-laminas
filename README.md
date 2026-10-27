@@ -12,3 +12,12 @@ Herramienta para calcular cuántas láminas de plywood 4 × 8 pies necesitas par
 Ábrela en el navegador: https://storycrafters26.github.io/calculadora-de-laminas/
 
 Todo funciona dentro de `index.html`; no necesita instalación.
+
+## Instalarla como app
+
+- **iPhone / iPad:** abre el enlace en Safari → botón Compartir → **Agregar a inicio**.
+- **Android:** abre el enlace en Chrome → menú ⋮ → **Instalar app**.
+
+Una vez instalada abre a pantalla completa y funciona sin internet.
+
+Al cambiar `index.html`, sube `VERSION` en `sw.js` para que los dispositivos instalados tomen la nueva versión.
