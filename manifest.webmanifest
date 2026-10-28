@@ -1,6 +1,6 @@
 {
-  "name": "Calculadora de Láminas",
-  "short_name": "Láminas",
+  "name": "Pawoc",
+  "short_name": "Pawoc",
   "description": "Calcula y acomoda piezas de plywood 4 × 8 pies, separadas por grosor.",
   "lang": "es",
   "start_url": "./",

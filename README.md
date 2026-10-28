@@ -15,7 +15,7 @@ Todo funciona dentro de `index.html`; no necesita instalación.
 
 ## Instalarla como app
 
-- **iPhone / iPad:** abre el enlace en Safari → botón Compartir → **Agregar a inicio**.
+- **iPhone / iPad:** abre el enlace en Safari → botón Compartir → **Agregar a inicio**. En el cel aparece como **Pawoc**.
 - **Android:** abre el enlace en Chrome → menú ⋮ → **Instalar app**.
 
 Una vez instalada abre a pantalla completa y funciona sin internet.

@@ -1,6 +1,6 @@
 // Guarda la app para que funcione sin internet.
 // Sube VERSION cada vez que cambie index.html para que los dispositivos tomen la nueva versión.
-const VERSION = 'v1';
+const VERSION = 'v2';
 const CACHE = 'laminas-' + VERSION;
 const APP = [
   './',
@@ -9,7 +9,8 @@ const APP = [
   './icons/icon-192.png',
   './icons/icon-512.png',
   './icons/icon-maskable-512.png',
-  './icons/apple-touch-icon.png'
+  './icons/apple-touch-icon.png',
+  './icons/favicon-32.png'
 ];
 
 self.addEventListener('install', (e) => {
