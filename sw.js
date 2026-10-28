@@ -1,6 +1,6 @@
 // Guarda la app para que funcione sin internet.
 // Sube VERSION cada vez que cambie index.html para que los dispositivos tomen la nueva versión.
-const VERSION = 'v3';
+const VERSION = 'v4';
 const CACHE = 'laminas-' + VERSION;
 const APP = [
   './',
